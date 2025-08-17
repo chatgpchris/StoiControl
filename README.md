@@ -8,7 +8,7 @@ The app helps users assess how “Stoic” they have been recently by answering 
 
 You can try the app online via Streamlit Cloud:  
 
-[**Launch StoiControl**](to_be_updated)
+[**Launch StoiControl**](to_be_updated) TO BE UPDATED SOON
 
 ## ✨ Features
 
