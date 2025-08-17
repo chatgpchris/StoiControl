@@ -40,12 +40,18 @@ You can try the app online via Streamlit Cloud:
 The scoring is percentile-based:
 
 Score Range	      Status Category
+
 0–39	            The Unsettled Mind in the Anti-Stoic Zone
+
 40–59	            The Growing Practitioner
+
 60–79	            The Steady Walker
+
 80–94	            The Inner Citadel Builder
+
 95–99	            Philosopher of Life
-100	              The Stoic Emperor
+
+100	                The Stoic Emperor
 
 ### Prerequisites
 
@@ -80,11 +86,17 @@ Score Range	      Status Category
 ## 📁 Project Structure
 
 stoicontrol/
+
 ├─ stoicontrol.py                 # Main Streamlit app
+
 ├─ how_much_stoic_have_you_been.py  # Questions and scoring data
+
 ├─ requirements.txt               # Python dependencies
+
 ├─ .streamlit/
+
 │   └─ config.toml                # Streamlit theme settings
+
 └─ README.md                      # Project documentation
 
 
