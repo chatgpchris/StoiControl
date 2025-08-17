@@ -25,17 +25,17 @@ You can try the app online via Streamlit Cloud:
 
 ## 💻 How it Works
 
-1. Users are welcomed with an introduction to the Stoic Self-Test.
+- Users are welcomed with an introduction to the Stoic Self-Test.
 
-2. Each question is presented with multiple-choice answers.
+- Each question is presented with multiple-choice answers.
 
-3. Users select an option for each question.
+- Users select an option for each question.
 
-4. The app calculates a score based on internal scoring rules.
+- The app calculates a score based on internal scoring rules.
 
-5. A status message is displayed that interprets the user's Stoic “score.”
+- A status message is displayed that interprets the user's Stoic “score.”
 
-6. Users can retake the test to track their growth over time.
+- Users can retake the test to track their growth over time.
 
 The scoring is percentile-based:
 
